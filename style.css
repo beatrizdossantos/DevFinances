@@ -93,8 +93,12 @@ button:hover{
 }
 
 
-.button.cancel:hover{ 
+.button.cancel:hover { 
     opacity: 1;
+}
+
+.minus-button { 
+    cursor: pointer;
 }
 
 /* =Header= */
@@ -112,7 +116,7 @@ header {
 
 /* =Balance= */
 #balance { 
-    margin-top: -8rem;
+    margin-top: -7.5rem;
 }
 
 #balance h2 { 
