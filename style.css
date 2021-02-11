@@ -54,7 +54,6 @@ h2 {
 a { 
     color: var(--green);
     text-decoration: none;
-
 }
 
 a:hover { 
@@ -111,7 +110,6 @@ header {
 #logo{ 
     color: #fff;
     font-weight: 100;
-
 }
 
 /* =Balance= */
@@ -246,7 +244,7 @@ table tbody tr:hover {
 }
 
 input { 
-    border: none;    
+     border: none;   
     border-radius: 0.2rem;
     padding: 0.8rem;
     width: 100%;
