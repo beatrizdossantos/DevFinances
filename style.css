@@ -1,8 +1,8 @@
 /* =Global= */
 :root{
     --dark-blue: #363f5f;
-    --green: #49AA26;
-    --light-green: #3DD705;
+    --green: #159957;
+    --light-green: #1bc671;
     --red: #e92929;
 }
 
@@ -17,7 +17,7 @@ html {
 }
 
 ::selection {
-    background: rgb(140, 201, 140);
+    background: rgba(21, 87, 153, 0.5);
 }
 
 body { 
@@ -102,8 +102,8 @@ button:hover{
 
 /* =Header= */
 header { 
-    background: #2d4a22;
-    padding: 2rem 0 10rem;
+    background: linear-gradient(0.25turn, #159957, #155799);
+        padding: 2rem 0 10rem;
     text-align: center;
 }
 

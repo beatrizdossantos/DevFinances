@@ -105,7 +105,6 @@ const Form = {
 
     validateFields() {
         const {description, amount, date} = Form.getValues()
-        console.log(description)
 
         if (description.trim() === "" || amount.trim() === "" || date.trim() === "") {
             throw new Error("Por favor, preencha todos os campos!")
@@ -132,7 +131,7 @@ const Form = {
     },
     
     submit(event) {
-        event.preventDefault()
+        event.preventDefault() //Cancela o evento se for cancelável, sem parar a propagação do mesmo.
 
         try {
             Form.validateFields()
