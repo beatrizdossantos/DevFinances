@@ -4,13 +4,6 @@
   <img alt="DevFinances" title="#DevFinances" src="https://github.com/beatrizdossantos/DevFinances/blob/main/assets/dev.finances%20print.png" />
 </h1>
 
-
-# Sumário :clipboard:
-* [Sobre](#Sobre)
-* [Aprendizados](#Aprendizados)
-* [Licença](#Licença)
-
-
 # :moneybag: Sobre 
 
 O dev.finance$ é um site de controle financeiro desenvolvido durante a Maratona Discover, nele você pode inserir e excluir as suas transações, além de controlar o seu saldo de ganhos e gastos. 
