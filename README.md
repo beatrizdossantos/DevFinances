@@ -1,9 +1,12 @@
-# ![Logo dev.finance$](https://svgshare.com/s/U3M)
+# <div style="text-align:center"><img src="https://github.com/beatrizdossantos/DevFinances/blob/main/assets/logo.svg"/></div>
 
 
-![dev.finace$ layout](https://imgur.com/5pIREee)
+![Logo](https://imgur.com/5pIREee)
 
-[Sobre](#Sobre)   |  [Aprendizados](#Aprendizados)  | [Licença](#Licença)
+# Sumário
+* [Sobre](#Sobre)
+* [Aprendizados](#Aprendizados)
+* [Licença](#Licença)
 
 
 # Sobre
