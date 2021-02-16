@@ -17,7 +17,7 @@ O dev.finance$ é um site de controle financeiro desenvolvido durante a Maratona
 
 Você pode acessar a aplicação clicando [aqui](https://beatrizdossantos.github.io/DevFinances/).
 
-# Aprendizados :computer:
+# Aprendizados
 Durante o desenvolvimento do projeto, aprendi e pratiquei os seguintes assuntos e tecnologias:
 
 * **Principais tags HTML** e como estruturar seu projeto. 
